@@ -50,6 +50,6 @@ ShopManager is basically a Console-Based Application Developed using Core Java a
 
 ## <u><strong>Technologies Used</strong></u>
 
-- Java
-- JDBC
+- JSE
+- JEE
 - PostgreSql
