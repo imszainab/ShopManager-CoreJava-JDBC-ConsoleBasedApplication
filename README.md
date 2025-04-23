@@ -49,7 +49,7 @@ ShopManager is basically a Console-Based Application Developed using Core Java a
      
      ![5_shopFetch](https://github.com/user-attachments/assets/1271e800-d150-4668-95ea-0a5e20376eb0)
      
-7.   <strong>Remove Products</strong>:
+6.   <strong>Remove Products</strong>:
     - Users can view all available products in the shop and remove a specific product by entering its ID.
 
       ![4_shopRemove](https://github.com/user-attachments/assets/abebf24b-87bd-4541-8d74-3530cd5af680)
