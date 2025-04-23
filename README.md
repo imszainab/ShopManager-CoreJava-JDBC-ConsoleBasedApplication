@@ -16,7 +16,8 @@ ShopManager is basically a Console-Based Application Developed using Core Java a
 
 1. <strong>Shop Details</strong>:
     - If it's the first run of the application, the user will be prompted to enter shop details.
-    - If a shop already exists, the existing shop details will be displayed.
+    - If a shop already exists, the existing shop details will be displayed.      
+      ![ss1](https://github.com/user-attachments/assets/9214a1ef-3ede-4eaa-9559-dd027639ed6a)
 
 2. <strong>Main Menu</strong>:
     - Users can select operations to perform from the main menu:
