@@ -25,9 +25,9 @@ ShopManager is basically a Console-Based Application Developed using Core Java a
         - Remove Products
         - Update Products
         - Fetch Products
-        - ![5_shopFetch](https://github.com/user-attachments/assets/1271e800-d150-4668-95ea-0a5e20376eb0)
+            ![5_shopFetch](https://github.com/user-attachments/assets/1271e800-d150-4668-95ea-0a5e20376eb0)
         - Exit 
-        - ![shopExit](https://github.com/user-attachments/assets/0ca998d5-12dd-4347-9ca6-6f35442c7c79)
+            ![shopExit](https://github.com/user-attachments/assets/0ca998d5-12dd-4347-9ca6-6f35442c7c79)
 
 3. <strong>Add Products</strong>:
     - Users can add one or multiple products to the shop by entering product details like Product ID, Product Name, Price, and Quantity.
