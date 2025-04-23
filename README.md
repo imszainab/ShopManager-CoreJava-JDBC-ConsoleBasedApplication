@@ -17,6 +17,7 @@ ShopManager is basically a Console-Based Application Developed using Core Java a
 1. <strong>Shop Details</strong>:
     - If it's the first run of the application, the user will be prompted to enter shop details.
     - If a shop already exists, the existing shop details will be displayed.
+      
       ![1_shop](https://github.com/user-attachments/assets/f803fc75-a239-4418-81c8-06a38692aa5d)
    
 2. <strong>Main Menu</strong>:
@@ -44,11 +45,11 @@ ShopManager is basically a Console-Based Application Developed using Core Java a
 5. <strong>Update Products</strong>:
     - Users can view all available products in the shop and update a specific product by entering its ID.
 
-    - ![3_shopUpdate1](https://github.com/user-attachments/assets/4a89d951-63d9-47e8-aa74-7c5115242c1c)
+      ![3_shopUpdate1](https://github.com/user-attachments/assets/4a89d951-63d9-47e8-aa74-7c5115242c1c)
     - Users can update Product Name, Price, and Quantity.
     
-    - ![3_shopUpdate2](https://github.com/user-attachments/assets/3064713c-446c-4a8a-8c52-72870d8e87a6)
-    - ![3_shopUpdate3](https://github.com/user-attachments/assets/3956f541-262b-4546-ad64-209b84174411)
+      ![3_shopUpdate2](https://github.com/user-attachments/assets/3064713c-446c-4a8a-8c52-72870d8e87a6)
+      ![3_shopUpdate3](https://github.com/user-attachments/assets/3956f541-262b-4546-ad64-209b84174411)
 
 ## <u><strong>How to Run</strong></u>
 
